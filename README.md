@@ -2,7 +2,7 @@
 
 🎓 Information Systems student at **UNIFACISA**  
 💡 Passionate about **programming**, **technology**, and **problem-solving**  
-🔍 Looking for opportunities in **backend development**, **frontend**, or **technical support**
+🔍 Looking for opportunities in **backend development**, **frontend**, or **data analysis**
 
 <!--
 <p align="left">
@@ -77,7 +77,7 @@
 
 🎓 Estudante de **Sistemas de Informação** na UNIFACISA  
 💡 Apaixonado por **programação**, **tecnologia** e **resolução de problemas**  
-🔍 Buscando oportunidades para atuar com **desenvolvimento backend, frontend ou suporte técnico**
+🔍 Buscando oportunidades para atuar com **desenvolvimento backend, frontend ou análise de dados**
 <!-----
 ![LessandroFreitas GitHub stats](https://github-readme-stats.vercel.app/api?username=LessandroFreitas&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LessandroFreitas&layout=compact&theme=tokyonight)
