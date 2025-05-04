@@ -1,4 +1,79 @@
-# 👋 Olá! Eu sou o Lessandro Freitas
+# 👋 I'm Lessandro Freitas
+
+🎓 Information Systems student at **UNIFACISA**  
+💡 Passionate about **programming**, **technology**, and **problem-solving**  
+🔍 Looking for opportunities in **backend development**, **frontend**, or **technical support**
+
+<!--
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LessandroFreitas&show_icons=true&theme=tokyonight" height="250" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LessandroFreitas&layout=compact&theme=tokyonight" height="250" width="300"/>
+</p>
+-->
+
+---
+
+## 🧰 Technologies & Tools
+- 💻 Java with Object-Oriented Programming (OOP)
+- 🐍 Python for backend, automations, and web scraping
+- 🌐 HTML and CSS for web development
+- 🗃️ MySQL and basic SQL
+- 🔧 Git, GitHub, and Visual Studio Code
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LessandroFreitas&show_icons=true&theme=tokyonight" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LessandroFreitas&layout=compact&theme=tokyonight" height="200"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Highlight Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| 📚 Library System | Register, list, and remove books and magazines | Java, ArrayList, Object-Oriented Programming |
+| 🛍️ Store Manager | Add, search, and remove store products | Java, ArrayList |
+| 🧪 Array Comparator | Displays combinations between two arrays based on rules | Java |
+| 💊 Pharmacy Web Scraper | Retrieves product prices from websites like Redepharma, Pague Menos, etc. | Python, requests, BeautifulSoup |
+
+📂 See all my public repositories [by clicking here](https://github.com/LessandroFreitas?tab=repositories)
+
+---
+
+## 📚 Currently Studying
+- Data Structures in Java  
+- Logic and Algorithms  
+- Web Fundamentals (HTML/CSS)  
+- SQL and Relational Databases  
+
+---
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lessandrof@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lessandro-freitas-24980b24a)  
+📍 Location: Campina Grande - PB, Brazil
+
+---
+
+> 🧠 _"Every mistake is one step closer to the solution — and to learning."_
+
+
+
+
+# 👋 Sou o Lessandro Freitas
 
 🎓 Estudante de **Sistemas de Informação** na UNIFACISA  
 💡 Apaixonado por **programação**, **tecnologia** e **resolução de problemas**  
@@ -63,7 +138,7 @@
 
 ## 📫 Contato
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lessandrof@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/lessandro-freitas-24980b24a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lessandro-freitas-24980b24a)
 - 📍 Localização: Campina Grande - PB, Brasil
 
 <!--
@@ -74,7 +149,7 @@
 
 ---
 
-> 🧠 _"Cada erro é um passo a mais perto da solução no caminho do aprendizado."_  
+> 🧠 _"Cada erro é um passo a mais perto da solução — e do aprendizado"_  
 
 
 ---
