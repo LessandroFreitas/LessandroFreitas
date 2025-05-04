@@ -3,6 +3,15 @@
 🎓 Estudante de **Sistemas de Informação** na UNIFACISA  
 💡 Apaixonado por **programação**, **tecnologia** e **resolução de problemas**  
 🔍 Buscando oportunidades para atuar com **desenvolvimento backend, frontend ou suporte técnico**
+<!-----
+![LessandroFreitas GitHub stats](https://github-readme-stats.vercel.app/api?username=LessandroFreitas&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LessandroFreitas&layout=compact&theme=tokyonight)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LessandroFreitas&show_icons=true&theme=tokyonight" height="250" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LessandroFreitas&layout=compact&theme=tokyonight" height="250" width="300"/>
+</p>
+!-->
 
 ---
 
@@ -18,6 +27,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LessandroFreitas&show_icons=true&theme=tokyonight" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LessandroFreitas&layout=compact&theme=tokyonight" height="200"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 Projetos em Destaque
