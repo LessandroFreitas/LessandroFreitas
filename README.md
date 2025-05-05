@@ -1,4 +1,4 @@
-# 👋 I'm Lessandro Freitas
+#  I'm Lessandro Freitas
 
 🎓 Information Systems student at **UNIFACISA**  
 💡 Passionate about **programming**, **technology**, and **problem-solving**  
@@ -73,12 +73,13 @@
 
 
 
-# 👋 Sou o Lessandro Freitas
+#  Sou o Lessandro Freitas
 
 🎓 Estudante de **Sistemas de Informação** na UNIFACISA  
 💡 Apaixonado por **programação**, **tecnologia** e **resolução de problemas**  
 🔍 Buscando oportunidades para atuar com **desenvolvimento backend, frontend ou análise de dados**
 <!-----
+👋
 ![LessandroFreitas GitHub stats](https://github-readme-stats.vercel.app/api?username=LessandroFreitas&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LessandroFreitas&layout=compact&theme=tokyonight)
 
