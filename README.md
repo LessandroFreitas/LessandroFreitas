@@ -42,7 +42,8 @@
 ## 🚀 Highlight Projects
 
 | Project | Description | Technologies |
-|--------|-------------|--------------|
+|--------|-------------|--------------
+| 🎬 Movie Rental System  [here](https://github.com/LessandroFreitas/exercicioLocadora.git) | Register, list, search, and remove movies | Python, ArrayList |
 | 🔊 Complaint Management | Register, list, and close user feedback (complaints, compliments, suggestions) | Python |
 | 📚 Library System | Register, list, and remove books and magazines | Java, ArrayList, Object-Oriented Programming |
 | 🛍️ Store Manager | Add, search, and remove store products | Java, ArrayList |
@@ -121,6 +122,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| 🎬 Sistema de Locadora de Filmes | Cadastra, lista, busca e remove filmes utilizando estrutura de listas | Python, ArrayList |
 | 🔊 Ouvidoria | Sistema para registrar, listar e encerrar manifestações (reclamações, elogios, sugestões) | Python |
 | 📚 Sistema de Biblioteca | Cadastro, listagem e exclusão de livros e revistas | Java, ArrayList, Orientação a Objetos |
 | 🛍️ Gerenciador de Loja | Adiciona, busca e remove produtos de uma loja | Java, ArrayList |
