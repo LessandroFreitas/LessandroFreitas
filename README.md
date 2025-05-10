@@ -43,15 +43,22 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------
-| 🎬 Movie Rental System  [here](https://github.com/LessandroFreitas/exercicioLocadora.git) | Register, list, search, and remove movies | Python, ArrayList |
+| 🎬 Movie Rental System  [clicking here](https://github.com/LessandroFreitas/exercicioLocadora.git) | Register, list, search, and remove movies | Python, ArrayList |
 | 🔊 Complaint Management | Register, list, and close user feedback (complaints, compliments, suggestions) | Python |
 | 📚 Library System | Register, list, and remove books and magazines | Java, ArrayList, Object-Oriented Programming |
 | 🛍️ Store Manager | Add, search, and remove store products | Java, ArrayList |
 | 🧪 Array Comparator | Displays combinations between two arrays based on rules | Java |
 | 💊 Pharmacy Web Scraper | Retrieves product prices from websites like Redepharma, Pague Menos, etc. | Python, requests, BeautifulSoup |
-| 🏗️ Store System (WIP) [here](https://github.com/LessandroFreitas/Store_JPA_Hibernate.git) | In development: product store management using ORM | Java, JPA, Hibernate |
+| 🏗️ Store System (WIP) [clicking here](https://github.com/LessandroFreitas/Store_JPA_Hibernate.git) | In development: product store management using ORM | Java, JPA, Hibernate |
 
 📂 See all my public repositories [by clicking here](https://github.com/LessandroFreitas?tab=repositories)
+
+---
+## 🧪 In Progress Projects
+
+| Project | Status | Description | Technologies |
+|---------|--------|-------------|--------------|
+| 🏗️ Store_JPA_Hibernate | 🔧 In development | Java store management system using JPA and Hibernate ORM to persist product data in a relational database. Focused on backend structure and entity relationships. | Java, JPA, Hibernate, MySQL |
 
 ---
 
@@ -132,6 +139,15 @@
 | 🏗️ Sistema de Loja (Em Desenvolvimento) | Em construção: gerenciamento de produtos com uso de ORM | Java, JPA, Hibernate |
 
 📂 Veja todos os meus repositórios públicos [clicando aqui](https://github.com/LessandroFreitas?tab=repositories)
+
+---
+
+## 🧪 Projetos em Andamento
+
+| Projeto | Status | Descrição | Tecnologias |
+|---------|--------|-----------|-------------|
+| 🏗️ Store_JPA_Hibernate | 🔧 Em desenvolvimento | Sistema de gerenciamento de loja com persistência de dados usando JPA e Hibernate. Foco em estrutura backend e relacionamento entre entidades. | Java, JPA, Hibernate, MySQL |
+
 
 ---
 
