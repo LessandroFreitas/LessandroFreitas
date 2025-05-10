@@ -121,7 +121,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🔊 Complaint Management (Ouvidoria) | Sistema para registrar, listar e encerrar manifestações (reclamações, elogios, sugestões) | Python |
+| 🔊 Ouvidoria | Sistema para registrar, listar e encerrar manifestações (reclamações, elogios, sugestões) | Python |
 | 📚 Sistema de Biblioteca | Cadastro, listagem e exclusão de livros e revistas | Java, ArrayList, Orientação a Objetos |
 | 🛍️ Gerenciador de Loja | Adiciona, busca e remove produtos de uma loja | Java, ArrayList |
 | 🧪 Comparador de Arrays | Exibe combinações entre dois vetores com base em regras | Java |
