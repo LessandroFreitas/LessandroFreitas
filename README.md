@@ -49,6 +49,7 @@
 | 🛍️ Store Manager | Add, search, and remove store products | Java, ArrayList |
 | 🧪 Array Comparator | Displays combinations between two arrays based on rules | Java |
 | 💊 Pharmacy Web Scraper | Retrieves product prices from websites like Redepharma, Pague Menos, etc. | Python, requests, BeautifulSoup |
+| 🏗️ Store System (WIP) [here](https://github.com/LessandroFreitas/Store_JPA_Hibernate.git) | In development: product store management using ORM | Java, JPA, Hibernate |
 
 📂 See all my public repositories [by clicking here](https://github.com/LessandroFreitas?tab=repositories)
 
@@ -128,6 +129,7 @@
 | 🛍️ Gerenciador de Loja | Adiciona, busca e remove produtos de uma loja | Java, ArrayList |
 | 🧪 Comparador de Arrays | Exibe combinações entre dois vetores com base em regras | Java |
 | 💊 Web Scraper Farmácias | Busca preços de produtos em sites como Redepharma, Pague Menos, etc. | Python, requests, BeautifulSoup |
+| 🏗️ Sistema de Loja (Em Desenvolvimento) | Em construção: gerenciamento de produtos com uso de ORM | Java, JPA, Hibernate |
 
 📂 Veja todos os meus repositórios públicos [clicando aqui](https://github.com/LessandroFreitas?tab=repositories)
 
