@@ -37,12 +37,13 @@
   </tr>
 </table>
 
----
+--
 
 ## 🚀 Highlight Projects
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
+| 🔊 Complaint Management | Register, list, and close user feedback (complaints, compliments, suggestions) | Python |
 | 📚 Library System | Register, list, and remove books and magazines | Java, ArrayList, Object-Oriented Programming |
 | 🛍️ Store Manager | Add, search, and remove store products | Java, ArrayList |
 | 🧪 Array Comparator | Displays combinations between two arrays based on rules | Java |
@@ -120,6 +121,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| 🔊 Complaint Management (Ouvidoria) | Sistema para registrar, listar e encerrar manifestações (reclamações, elogios, sugestões) | Python |
 | 📚 Sistema de Biblioteca | Cadastro, listagem e exclusão de livros e revistas | Java, ArrayList, Orientação a Objetos |
 | 🛍️ Gerenciador de Loja | Adiciona, busca e remove produtos de uma loja | Java, ArrayList |
 | 🧪 Comparador de Arrays | Exibe combinações entre dois vetores com base em regras | Java |
