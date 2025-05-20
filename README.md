@@ -83,7 +83,7 @@
 
 
 
-#  Sou o Lessandro Freitas
+#  Sou Lessandro Freitas
 
 🎓 Estudante de **Sistemas de Informação** na UNIFACISA  
 💡 Apaixonado por **programação**, **tecnologia** e **resolução de problemas**  
