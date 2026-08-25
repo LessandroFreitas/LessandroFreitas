@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Lessandro Freitas 👋
+# Olá, eu sou Lessandro Freitas 
 
 ### Estudante de Sistemas de Informação | Desenvolvedor em formação | Profissional de TI
 
